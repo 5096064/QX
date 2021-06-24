@@ -1,0 +1,4 @@
+http = a1.ap.fastqvpn.com:29980, username=439272454746013696, password=63dcc867-bbd9-4c58-8035-b329274f56c4, over-tls=true, tls-verification=true, tag=🇭🇰 HK_Fastq_主力1
+http = a1.ap.fastqvpn.com:29980, username=455063287743119360, password=881c3026-354c-4662-9d64-1b7db416f8f8, over-tls=true, tls-verification=true, tag=🇭🇰 HK_Fastq_炮灰1
+http = a1.ap.fastqvpn.com:29980, username=455063363286732800, password=40e8cf11-d0a2-4b74-9dc5-7ddfafe759a6, over-tls=true, tls-verification=true, tag=🇭🇰 HK_Fastq_炮灰2
+http = a1.ap.fastqvpn.com:29980, username=455063700647186432, password=7189ff4f-370a-4b71-ae3d-aa576367a8ff, over-tls=true, tls-verification=true, tag=🇭🇰 HK_Fastq_炮灰3
