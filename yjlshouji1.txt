@@ -6,6 +6,6 @@ http=global.ap.fastqvpn.com:29985, username=439272454746013696, password=63dcc86
 http=global.ap.fastqvpn.com:29986, username=439272454746013696, password=63dcc867-bbd9-4c58-8035-b329274f56c4, over-tls=true, tls-verification=true, tag=🇸🇬 【彬哥自用】SG/新加坡_主力1
 http=global.ap.fastqvpn.com:29987, username=439272454746013696, password=63dcc867-bbd9-4c58-8035-b329274f56c4, over-tls=true, tls-verification=true, tag=🇬🇧 【彬哥自用】UK/英国_主力1
 http=global.ap.fastqvpn.com:29988, username=439272454746013696, password=63dcc867-bbd9-4c58-8035-b329274f56c4, over-tls=true, tls-verification=true, tag=🇺🇸 【彬哥自用】US/美国_主力1
-http=a1.ap.fastqvpn.com:29980, username=455063287743119360, password=881c3026-354c-4662-9d64-1b7db416f8f8, over-tls=true, tls-verification=true, tag=🇭🇰 【彬哥自用】HK/香港_炮灰1
-http=a1.ap.fastqvpn.com:29980, username=455063363286732800, password=40e8cf11-d0a2-4b74-9dc5-7ddfafe759a6, over-tls=true, tls-verification=true, tag=🇭🇰 【彬哥自用】HK/香港_炮灰2
-http=a1.ap.fastqvpn.com:29980, username=455063700647186432, password=7189ff4f-370a-4b71-ae3d-aa576367a8ff, over-tls=true, tls-verification=true, tag=🇭🇰 【彬哥自用】HK/香港_炮灰3
+http=a1.ap.fastqvpn.com:29980, username=455063287743119360, password=a9ce5579-b133-46cb-befa-f8fab4f88667, over-tls=true, tls-verification=true, tag=🇭🇰 【彬哥自用】HK/香港_炮灰1
+http=a1.ap.fastqvpn.com:29980, username=455063363286732800, password=c2d66b26-65d8-4a6f-b1da-928253030c9a, over-tls=true, tls-verification=true, tag=🇭🇰 【彬哥自用】HK/香港_炮灰2
+http=a1.ap.fastqvpn.com:29980, username=455063700647186432, password=51858dfa-2c3b-4198-acd4-e919e48bc5fd, over-tls=true, tls-verification=true, tag=🇭🇰 【彬哥自用】HK/香港_炮灰3
